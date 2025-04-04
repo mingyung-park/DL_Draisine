@@ -11,7 +11,7 @@
 ├── 📄 Sequencial_model.ipynb
 ├── 📄 Functional_model.ipynb
 ├── 📄 Subclassing_model.ipynb
-├── 📄 Custom_callback.ipynb
+├── 📄 Custom_metric_callback.ipynb
 └── 📄 README.md
 ```
 
