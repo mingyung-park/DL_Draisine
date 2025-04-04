@@ -4,4 +4,13 @@
 
 코드는 Deep Learning with Python(케창딥)을 참고하였습니다.
 
+## File Structure
+```
+📂 custom_modeling
+├── 📄 boston_housing_regression.ipynb
+├── 📄 movie_review_binary.ipynb
+├── 📄 reuters_multiclass.ipynb
+└── 📄 README.md
+```
+
 ## Related Postings
