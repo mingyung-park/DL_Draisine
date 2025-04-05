@@ -16,3 +16,4 @@
 ```
 
 ## Related Postings
+[〽️ Data Generators 예시: A detailed example of how to use data generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#)
